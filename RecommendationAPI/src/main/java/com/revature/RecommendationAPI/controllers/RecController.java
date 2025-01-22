@@ -32,5 +32,4 @@ public class RecController {
         return ResponseEntity.ok(books);
 
     }
-
 }
